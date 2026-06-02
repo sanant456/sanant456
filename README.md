@@ -60,12 +60,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanant456&theme=github_dark" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ## 📊 GitHub Analytics
 
@@ -82,11 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&theme=github-dark&hide_border=true&area=true" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f8&area=true&hide_border=true" />
-</p>
 
 
 ## 🌐 Connect With Me
