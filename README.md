@@ -7,12 +7,12 @@
 
 ### 🎨 UI/UX Engineer • 💻 Computer Science Student
 
-</div>
+<!-- </div>
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
 
 # Hi 👋, I'm Anant Singh
 
-### 🎨 UI/UX Engineer | 💻 Computer Science Student -->
+### 🎨 UI/UX Engineer | 💻 Computer Science Student --> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Designing+Meaningful+User+Experiences;UI%2FUX+Engineer;Computer+Science+Student;Figma+%7C+Java+%7C+Python;Always+Learning+and+Building" />
 
