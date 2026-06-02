@@ -72,17 +72,12 @@
 
 
 
-## 📊 GitHub Stats
+
+## 📊 My GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanant456&theme=github_dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanant456&theme=tokyonight&hide_border=true" />
-</p>
----
 
 
 ## 🌐 Connect With Me
