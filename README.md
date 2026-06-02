@@ -67,6 +67,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanant456&theme=github_dark" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanant456&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanant456&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanant456&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&theme=github-dark&hide_border=true&area=true" />
+</p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
