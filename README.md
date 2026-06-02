@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/banner.png" width="100%" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif">
 
 # Hi 👋, I'm Anant Singh
 
