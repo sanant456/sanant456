@@ -8,11 +8,6 @@
 
 ### 🎨 UI/UX Engineer • 💻 Computer Science Student
 
-
-# Hi 👋, I'm Anant Singh
-
-### 🎨 UI/UX Engineer • 💻 Computer Science Student
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Designing+Meaningful+User+Experiences;UI%2FUX+Engineer;Computer+Science+Student;Figma+%7C+Java+%7C+Python;Always+Learning+and+Building" />
 
 </div>
