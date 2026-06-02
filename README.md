@@ -60,11 +60,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanant456&theme=github_dark" />
 </p>
 
-## 💻 Language Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanant456&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanant456&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ## 📊 GitHub Analytics
