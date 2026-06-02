@@ -74,9 +74,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&theme=github_dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&theme=github_dark" />
 
 </div>
 
@@ -85,10 +85,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="YOUR_LEETCODE_URL">LeetCode</a> •
-<a href="mailto:sanant321@gmail.com">Email</a>
-</p>
+<a href="## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">
+<img src="https://img.shields.io/badge/LinkedIn-Anant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/sanant567/">
+<img src="https://img.shields.io/badge/LeetCode-sanant567-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:sanant321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sanant321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
 <div align="center">
 
