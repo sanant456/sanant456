@@ -72,33 +72,39 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&theme=github_dark" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&theme=github_dark" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanant456&theme=tokyonight&hide_border=true" />
+</p>
 ---
+
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="## 🌐 Connect With Me
+  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/sanant567/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sanant321@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">
-<img src="https://img.shields.io/badge/LinkedIn-Anant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sanant567/">
-<img src="https://img.shields.io/badge/LeetCode-sanant567-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:sanant321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sanant321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">LinkedIn</a> •
+  <a href="https://leetcode.com/u/sanant567/">LeetCode</a> •
+  <a href="mailto:sanant321@gmail.com">Email</a>
+</p>
 
 
 <div align="center">
