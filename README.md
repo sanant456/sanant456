@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/banner.png" width="100%" />
+</p>
+
 # Hi 👋, I'm Anant Singh
 
 ### 🎨 UI/UX Engineer | 💻 Computer Science Student
@@ -53,13 +57,6 @@
 🧩 Active LeetCode Problem Solver
 
 ---
-
-## 📊 My GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanant456&theme=github_dark" />
-</p>
-
 
 ## 📊 GitHub Analytics
 
