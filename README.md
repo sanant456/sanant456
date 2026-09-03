@@ -70,7 +70,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&theme=github-dark&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+  />
 </p>
 
 
@@ -103,4 +106,4 @@
 ### ⭐ "Design is not just what it looks like and feels like. Design is how it works."
 
 </div>
--->
+
