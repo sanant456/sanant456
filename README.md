@@ -90,7 +90,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&theme=github-dark&hide_border=true&area=true" />
 <p align="center">
   <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">LinkedIn</a> •
   <a href="https://leetcode.com/u/sanant567/">LeetCode</a> •
