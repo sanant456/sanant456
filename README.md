@@ -80,6 +80,8 @@
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
@@ -93,14 +95,24 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&theme=github-dark&hide_border=true&area=true" />
+
+<p align="center">
+  <a href="https://leetcode.com/u/sanant567/">
+    <img src="https://leetcard.jacoblin.cool/sanant567?theme=dark&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">LinkedIn</a> •
   <a href="https://leetcode.com/u/sanant567/">LeetCode</a> •
   <a href="mailto:sanant321@gmail.com">Email</a>
 </p>
 
-<div align="center">
+</div>
+
+
 
 ### ⭐ "Design is not just what it looks like and feels like. Design is how it works."
 
