@@ -76,6 +76,11 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/sanant567/">
+    <img src="https://leetcard.jacoblin.cool/sanant567?theme=dark&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 
 
 ## 🌐 Connect With Me
