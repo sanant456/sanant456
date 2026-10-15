@@ -69,18 +69,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanant456&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://leetcode.com/u/sanant567/">
     <img src="https://leetcard.jacoblin.cool/sanant567?theme=dark&ext=contest" alt="LeetCode Stats" />
   </a>
-</p>
+</p> -->
 
 
 ## 🌐 Connect With Me
@@ -104,9 +99,6 @@
   <a href="https://leetcode.com/u/sanant567/">LeetCode</a> •
   <a href="mailto:sanant321@gmail.com">Email</a>
 </p>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sanant567?theme=dark&ext=contest)](https://leetcode.com/u/sanant567/)
-
 
 <div align="center">
 
