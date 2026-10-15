@@ -102,7 +102,6 @@
   </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanant456&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">LinkedIn</a> •
