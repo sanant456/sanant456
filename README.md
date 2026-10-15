@@ -105,6 +105,8 @@
   <a href="mailto:sanant321@gmail.com">Email</a>
 </p>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sanant567?theme=dark&ext=contest)](https://leetcode.com/u/sanant567/)
+
 
 <div align="center">
 
