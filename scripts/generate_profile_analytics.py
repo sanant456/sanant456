@@ -66,7 +66,7 @@ def fetch_repositories():
         if len(batch) < 100:
             break
         page += 1
-    return [r for r in repositories if not r.get("fork") and not r.get("archived")]
+    return [r for r in repositories if not r.get("private", False) and not r.get("fork") and not r.get("archived")]
 
 
 def fetch_recent_events():
