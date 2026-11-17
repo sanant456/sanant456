@@ -25,6 +25,12 @@ I'm a **final-year B.Tech Computer Science & Engineering student (2023–2027)**
 
 ---
 
+<div align="center">
+  <img src="./assets/learning-loop.svg" width="100%" alt="Animated learning path: full-stack projects, AI agent workflows, DSA practice, and career readiness"/>
+</div>
+
+---
+
 ## ✨ Featured Projects
 
 <table>
@@ -78,19 +84,15 @@ I'm a **final-year B.Tech Computer Science & Engineering student (2023–2027)**
 
 </div>
 
-<p align="center"><sub>Also exploring Gemini, OpenAI APIs, Vertex AI, Pandas, NumPy, Matplotlib, Seaborn, and Power BI.</sub></p>
+<p align="center"><sub>Also exploring Gemini, OpenAI APIs, Vertex AI, Pandas, NumPy, Matplotlib, and Seaborn.</sub></p>
 
 ---
 
 ## 🎯 My Final-Year Focus
 
-<table>
-  <tr>
-    <td align="center" width="33%"><strong>BUILD</strong><br/>Ship practical full-stack and AI projects.</td>
-    <td align="center" width="33%"><strong>IMPROVE</strong><br/>Strengthen DSA, CS fundamentals, and engineering practices.</td>
-    <td align="center" width="33%"><strong>CONNECT</strong><br/>Learn from teams, mentors, hackathons, and internships.</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/final-year-focus.svg" width="100%" alt="Animated final-year focus: build, improve, and connect"/>
+</div>
 
 ---
 
