@@ -19,25 +19,33 @@
 
 ### 💻 Programming Languages
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c,cpp,js,ts](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts)" />
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Programming Languages" />
+</p>
 
 ### 🎨 Frontend Development & UI/UX
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma&theme=dark" alt="Frontend and UI/UX" />
+</p>
 
 ### ⚙️ Backend Development
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=nodejs,express,fastapi,python](https://skillicons.dev/icons?i=nodejs,express,fastapi,python)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark" alt="Backend Technologies" />
+</p>
 
 ### 🗄️ Databases & ORM
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase,prisma](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase,prisma)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase,prisma&theme=dark" alt="Databases and ORM" />
+</p>
 
 ### 🤖 AI, Machine Learning & Data Science
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=python,opencv,tensorflow](https://skillicons.dev/icons?i=python,opencv,tensorflow)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow&theme=dark" alt="AI, Machine Learning and Data Science" />
+</p>
 
 **Additional Technologies:**
 
@@ -49,7 +57,9 @@
 
 ### ☁️ Cloud, DevOps & Deployment
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github&theme=dark" alt="Cloud and DevOps" />
+</p>
 
 **Additional Technologies:**
 
@@ -61,7 +71,9 @@
 
 ### 🧰 Tools & Development Environment
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=vscode,idea,postman,figma,github,git,linux](https://skillicons.dev/icons?i=vscode,idea,postman,figma,github,git,linux)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,github,git,linux&theme=dark" alt="Developer Tools" />
+</p>
 
 ### 📚 Core Computer Science Skills
 
@@ -75,6 +87,7 @@
 - Authentication & Authorization
 - Data Analytics & Visualization
 - System Design & Architecture
+
 
 
 
