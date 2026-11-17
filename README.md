@@ -32,20 +32,34 @@ I'm a final-year **B.Tech Computer Science & Engineering student** who enjoys bu
 ## ✨ Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sanant456/lifeos-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=lifeos-ai&theme=tokyonight&hide_border=true" alt="LifeOS AI repository card"/>
-  </a>
-  <a href="https://github.com/sanant456/Subscription-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=Subscription-Management-System&theme=tokyonight&hide_border=true" alt="Subscription Management System repository card"/>
-  </a>
-  <a href="https://github.com/sanant456/Job-Market-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=Job-Market-Analysis&theme=tokyonight&hide_border=true" alt="Job Market Analysis repository card"/>
-  </a>
-  <a href="https://github.com/sanant456/Emergencybridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=Emergencybridge&theme=tokyonight&hide_border=true" alt="EmergencyBridge repository card"/>
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sanant456/lifeos-ai">
+          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/lifeos-ai.svg" width="100%" alt="LifeOS AI — multi-agent productivity platform"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sanant456/Subscription-Management-System">
+          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/subvault.svg" width="100%" alt="SubVault — subscription management platform"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sanant456/Job-Market-Analysis">
+          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/marketpulse.svg" width="100%" alt="MarketPulse — job market analytics"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sanant456/Emergencybridge">
+          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/emergencybridge.svg" width="100%" alt="EmergencyBridge — secure emergency record access"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p><sub>Click any project card to explore its source code, features, and documentation.</sub></p>
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
