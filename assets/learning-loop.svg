@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="124" viewBox="0 0 1200 124" role="img" aria-labelledby="t d">
+<title id="t">Anant Singh — Currently learning and building</title>
+<desc id="d">Animated strip highlighting full-stack projects, AI agents, DSA practice, and internship readiness.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0C1728"/><stop offset=".52" stop-color="#17213C"/><stop offset="1" stop-color="#0C1728"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60A5FA"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="1198" height="122" rx="18"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1198" height="122" rx="18" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+<g clip-path="url(#clip)">
+  <rect x="0" y="0" width="1200" height="4" fill="url(#line)"/>
+  <rect x="0" y="0" width="270" height="4" fill="#BFDBFE" opacity=".9">
+    <animate attributeName="x" values="-270;1200" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="34" y="38" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.4">CURRENTLY BUILDING MY NEXT CHAPTER</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="650">
+    <rect x="34" y="55" width="264" height="42" rx="21" fill="#172C49" stroke="#3B82F6" stroke-opacity=".55"/>
+    <circle cx="57" cy="76" r="5" fill="#60A5FA"><animate attributeName="opacity" values="1;.25;1" dur="1.7s" repeatCount="indefinite"/></circle>
+    <text x="75" y="82" fill="#DBEAFE">Full-stack projects</text>
+    <rect x="318" y="55" width="226" height="42" rx="21" fill="#252044" stroke="#A78BFA" stroke-opacity=".55"/>
+    <circle cx="341" cy="76" r="5" fill="#A78BFA"><animate attributeName="opacity" values="1;.25;1" begin=".4s" dur="1.7s" repeatCount="indefinite"/></circle>
+    <text x="359" y="82" fill="#EDE9FE">AI agent workflows</text>
+    <rect x="564" y="55" width="200" height="42" rx="21" fill="#12352E" stroke="#34D399" stroke-opacity=".55"/>
+    <circle cx="587" cy="76" r="5" fill="#34D399"><animate attributeName="opacity" values="1;.25;1" begin=".8s" dur="1.7s" repeatCount="indefinite"/></circle>
+    <text x="605" y="82" fill="#D1FAE5">DSA practice</text>
+    <rect x="784" y="55" width="374" height="42" rx="21" fill="#302A1A" stroke="#FBBF24" stroke-opacity=".55"/>
+    <circle cx="807" cy="76" r="5" fill="#FBBF24"><animate attributeName="opacity" values="1;.25;1" begin="1.2s" dur="1.7s" repeatCount="indefinite"/></circle>
+    <text x="825" y="82" fill="#FEF3C7">Internship &amp; career readiness</text>
+  </g>
+</g>
+</svg>
