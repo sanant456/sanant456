@@ -1,91 +1,104 @@
-<!-- Profile README for github.com/sanant456 -->
+<!--
+  Anant Singh | GitHub Profile README
+  This is the special profile repository: github.com/sanant456/sanant456
+-->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Anant%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated wave header" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Full-Stack+Developer;Exploring+Generative+AI+%26+AI+Agents;Turning+Ideas+Into+Useful+Products" alt="Animated typing introduction" /></a>
-
-### UI/UX Designer · Full-Stack Developer · AI Enthusiast
-
-Building useful digital experiences with software, data, and AI.
-
-<p>
-  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/sanant567/">LeetCode</a> ·
-  <a href="mailto:sanant321@gmail.com">Email</a>
-</p>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:142B4A,100:2563EB&text=ANANT%20SINGH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Building%20useful%20things%20with%20code%2C%20design%20%26%20AI&descAlignY=59&descSize=16&animation=fadeIn" alt="Anant Singh profile banner" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;UI%2FUX+Design+Explorer;Turning+ideas+into+real-world+products" alt="Developer roles animation" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/sanant567/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:sanant321@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=sanant456&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🎓 Final-year B.Tech Computer Science & Engineering student.
-- 🎨 Interested in UI/UX engineering and accessible, user-friendly design.
-- 💻 Building full-stack applications with React, Next.js, Node.js, and Python.
-- 🤖 Exploring Generative AI, AI agents, and intelligent workflow automation.
-- 📊 Interested in data science, analytics, and visualization.
+I'm a final-year **B.Tech Computer Science & Engineering student** who enjoys building practical software at the intersection of **full-stack development, AI, data, and product design**.
 
-## 🧰 Tech Stack
+- 💻 I build web applications and experiment with end-to-end product development.
+- 🤖 I explore Generative AI, AI agents, and intelligent workflow automation.
+- 🎨 I care about clean interfaces, thoughtful UX, and useful details.
+- 📊 I enjoy turning raw data into insights and visual stories.
+- 🌱 Currently learning, shipping projects, and improving one commit at a time.
+
+---
+
+## ✨ Featured Projects
+
+<div align="center">
+  <a href="https://github.com/sanant456/lifeos-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=lifeos-ai&theme=tokyonight&hide_border=true" alt="LifeOS AI repository card"/>
+  </a>
+  <a href="https://github.com/sanant456/Subscription-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=Subscription-Management-System&theme=tokyonight&hide_border=true" alt="Subscription Management System repository card"/>
+  </a>
+  <a href="https://github.com/sanant456/Job-Market-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=Job-Market-Analysis&theme=tokyonight&hide_border=true" alt="Job Market Analysis repository card"/>
+  </a>
+  <a href="https://github.com/sanant456/Emergencybridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanant456&repo=Emergencybridge&theme=tokyonight&hide_border=true" alt="EmergencyBridge repository card"/>
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Java, Python, C, C++, JavaScript and TypeScript" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Java, Python, C, C++, JavaScript and TypeScript"/>
 
 **Frontend & Design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS, Vite and Figma" />
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind, Vite and Figma"/>
 
 **Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,sqlite,firebase,supabase&theme=dark" alt="Node.js, Express, FastAPI, MongoDB, PostgreSQL, SQLite, Firebase and Supabase"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,sqlite,firebase,supabase&theme=dark" alt="Node.js, Express, FastAPI, MongoDB, PostgreSQL, SQLite, Firebase and Supabase" />
-</p>
-
-**AI, Data & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,aws,gcp,docker,vercel,git,github&theme=dark" alt="TensorFlow, OpenCV, AWS, Google Cloud, Docker, Vercel, Git and GitHub" />
-</p>
-
-**Also working with:** OpenAI API, Google Gemini, Vertex AI, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and REST APIs.
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sanant456/sanant456/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+**AI, Data & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,aws,gcp,docker,vercel,git,github&theme=dark" alt="TensorFlow, OpenCV, AWS, Google Cloud, Docker, Vercel, Git and GitHub"/>
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanant456&theme=tokyonight" alt="GitHub statistics" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanant456&theme=tokyonight" alt="Top languages by repository" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanant456&theme=tokyonight" alt="Top languages by commit" />
-
-</div>
-
-## 🌐 Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/sanant567/">LeetCode</a> ·
-  <a href="mailto:sanant321@gmail.com">Email</a>
+<p align="center">
+  <sub>Also exploring: Gemini, OpenAI APIs, Vertex AI, Pandas, NumPy, Matplotlib, Seaborn, Power BI and REST APIs.</sub>
 </p>
 
+---
+
+## 📈 GitHub Activity
+
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanant456&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <br/><br/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="Animated wave footer" />
+---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/sanant456/sanant456/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>💬 Let's Build Something Meaningful</h3>
+  <p>Open to learning, collaborating, and building projects that solve real problems.</p>
+  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/"><img src="https://img.shields.io/badge/Let's%20connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/></a>
+  <br/><br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,55:142B4A,100:0B1020" alt="Footer banner"/>
 </div>
