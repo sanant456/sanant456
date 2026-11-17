@@ -1,3 +1,126 @@
+## 🚀 About Me
+
+🎓 Final-year B.Tech Computer Science & Engineering student
+
+🎨 UI/UX Engineer passionate about building intuitive and accessible digital experiences.
+
+💻 Full-Stack Developer working with React, Next.js, Node.js, Python, and FastAPI.
+
+🤖 Exploring Generative AI, AI Agents, Multi-Agent Systems, and intelligent workflow automation.
+
+📊 Interested in Data Science, Machine Learning, Data Analytics, and Visualization.
+
+☁️ Building cloud-powered applications using AWS, Firebase, and Google Cloud.
+
+🌱 Constantly learning, experimenting, and developing technology-driven solutions to real-world problems.
+
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
+
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c,cpp,js,ts](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts)" />
+\</p>
+
+### 🎨 Frontend Development & UI/UX
+
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma)" /> \</p>
+
+### ⚙️ Backend Development
+
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=nodejs,express,fastapi,python](https://skillicons.dev/icons?i=nodejs,express,fastapi,python)" /> \</p>
+
+### 🗄️ Databases & ORM
+
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase,prisma](https://skillicons.dev/icons?i=mongodb,postgres,sqlite,firebase,supabase,prisma)" /> \</p>
+
+### 🤖 AI, Machine Learning & Data Science
+
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=python,opencv,tensorflow](https://skillicons.dev/icons?i=python,opencv,tensorflow)" /> \</p>
+
+**Additional Technologies:**
+
+- Generative AI: OpenAI API, Google Gemini, Vertex AI, Vision AI
+- AI Agents: Multi-Agent Systems, Agent Orchestration, AI Workflow Automation
+- Data Science: Pandas, NumPy, Matplotlib, Seaborn
+- Graph Analytics: NetworkX, D3.js, SciPy
+- Data Visualization: Recharts, Power BI
+
+### ☁️ Cloud, DevOps & Deployment
+
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github)" /> \</p>
+
+**Additional Technologies:**
+
+- AWS S3
+- Google Cloud Platform
+- Firebase Hosting
+- Vercel Deployment
+- Docker Compose
+
+### 🧰 Tools & Development Environment
+
+\<p align="center">   \<img src="[https://skillicons.dev/icons?i=vscode,idea,postman,figma,github,git,linux](https://skillicons.dev/icons?i=vscode,idea,postman,figma,github,git,linux)" /> \</p>
+
+### 📚 Core Computer Science Skills
+
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- REST API Development
+- Authentication & Authorization
+- Data Analytics & Visualization
+- System Design & Architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 
