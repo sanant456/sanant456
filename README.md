@@ -96,6 +96,20 @@ I'm a **final-year B.Tech Computer Science & Engineering student (2023–2027)**
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="./assets/github-analytics.svg" width="100%" alt="Automatically updated GitHub analytics dashboard"/>
+</div>
+
+<p align="center">
+  <sub>Updated daily with public repository metadata and recently observed public activity. Language distribution counts repositories by primary language, not source-code bytes.</sub>
+</p>
+
+[View the analytics generator](https://github.com/sanant456/sanant456/blob/main/scripts/generate_profile_analytics.py) · [View update workflow](https://github.com/sanant456/sanant456/actions/workflows/profile-analytics.yml)
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
