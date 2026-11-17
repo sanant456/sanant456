@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Anant%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Animated wave header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Engineer;Full-Stack+Developer;Exploring+Generative+AI+%26+AI+Agents;Turning+Ideas+Into+Useful+Products" alt="Animated typing introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Full-Stack+Developer;Exploring+Generative+AI+%26+AI+Agents;Turning+Ideas+Into+Useful+Products" alt="Animated typing introduction" /></a>
 
 ### UI/UX Designer · Full-Stack Developer · AI Enthusiast
 
