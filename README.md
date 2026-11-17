@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:142B4A,100:2563EB&text=ANANT%20SINGH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Building%20useful%20things%20with%20code%2C%20design%20%26%20AI&descAlignY=59&descSize=16&animation=fadeIn" alt="Anant Singh profile banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/profile-banner.svg" alt="Anant Singh profile banner" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;UI%2FUX+Design+Explorer;Turning+ideas+into+real-world+products" alt="Developer roles animation" />
   <br/><br/>
