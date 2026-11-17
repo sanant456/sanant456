@@ -1,11 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
-<title id="t">GitHub Analytics — Initialising</title>
-<desc id="d">This dashboard is generated daily by GitHub Actions using public repository metadata and recent public events.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#14243B"/></linearGradient></defs>
-<rect x="1" y="1" width="1198" height="258" rx="22" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
-<text x="42" y="62" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">GITHUB ANALYTICS</text>
-<text x="44" y="98" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Your public GitHub activity dashboard is being initialised.</text>
-<circle cx="70" cy="165" r="8" fill="#60A5FA"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
-<text x="96" y="171" fill="#BFDBFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Run the “Update GitHub Profile Analytics” workflow once to populate repository and activity data.</text>
-<text x="44" y="223" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Metrics will be clearly labelled: public repositories, repository stars/forks, primary languages, and observed public events.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">GitHub analytics for sanant456</title>
+<desc id="desc">Original public repository count, stars, forks, primary language distribution by repository count, and observed public event activity over the last 30 days.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#14243B"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+<linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="green" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#059669"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#94A3B8" opacity=".12"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="648" rx="24" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="648" rx="24" fill="url(#dots)"/>
+<text x="42" y="56" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750" letter-spacing="1">GITHUB ANALYTICS</text>
+<text x="44" y="84" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">PUBLIC REPOSITORY SNAPSHOT  ·  @sanant456</text>
+<rect x="944" y="34" width="210" height="34" rx="17" fill="#102D28" stroke="#34D399" stroke-opacity=".45"/>
+<circle cx="965" cy="51" r="5" fill="#34D399"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="980" y="56" fill="#A7F3D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">AUTO-UPDATED</text>
+<rect x="42" y="112" width="252" height="112" rx="15" fill="#111D30" stroke="#334155"/>
+<rect x="42" y="112" width="252" height="4" rx="2" fill="url(#blue)"/>
+<text x="60" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".9">ORIGINAL PUBLIC REPOS</text>
+<text x="60" y="187" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="750">24</text>
+<text x="60" y="208" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Non-fork · non-archived</text>
+<rect x="330" y="112" width="252" height="112" rx="15" fill="#111D30" stroke="#334155"/>
+<rect x="330" y="112" width="252" height="4" rx="2" fill="url(#violet)"/>
+<text x="348" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".9">TOTAL STARS</text>
+<text x="348" y="187" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="750">0</text>
+<text x="348" y="208" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Across counted repositories</text>
+<rect x="618" y="112" width="252" height="112" rx="15" fill="#111D30" stroke="#334155"/>
+<rect x="618" y="112" width="252" height="4" rx="2" fill="url(#green)"/>
+<text x="636" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".9">TOTAL FORKS</text>
+<text x="636" y="187" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="750">2</text>
+<text x="636" y="208" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Across counted repositories</text>
+<rect x="906" y="112" width="252" height="112" rx="15" fill="#111D30" stroke="#334155"/>
+<rect x="906" y="112" width="252" height="4" rx="2" fill="url(#blue)"/>
+<text x="924" y="143" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".9">PUBLIC EVENTS · 30 DAYS</text>
+<text x="924" y="187" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="750">16</text>
+<text x="924" y="208" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">5 active days observed</text>
+<text x="44" y="278" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">PRIMARY LANGUAGES</text>
+<text x="44" y="300" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Count of repositories by GitHub primary-language field · not code-byte share</text>
+<text x="44" y="340" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">JavaScript</text>
+<rect x="190" y="326" width="500" height="12" rx="6" fill="#1E293B"/>
+<rect x="190" y="326" width="500" height="12" rx="6" fill="url(#blue)"/>
+<text x="710" y="340" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">7 repos · 30%</text>
+<text x="44" y="382" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Python</text>
+<rect x="190" y="368" width="500" height="12" rx="6" fill="#1E293B"/>
+<rect x="190" y="368" width="357" height="12" rx="6" fill="url(#blue)"/>
+<text x="710" y="382" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">5 repos · 22%</text>
+<text x="44" y="424" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Java</text>
+<rect x="190" y="410" width="500" height="12" rx="6" fill="#1E293B"/>
+<rect x="190" y="410" width="285" height="12" rx="6" fill="url(#blue)"/>
+<text x="710" y="424" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">4 repos · 17%</text>
+<text x="44" y="466" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">TypeScript</text>
+<rect x="190" y="452" width="500" height="12" rx="6" fill="#1E293B"/>
+<rect x="190" y="452" width="285" height="12" rx="6" fill="url(#blue)"/>
+<text x="710" y="466" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">4 repos · 17%</text>
+<text x="44" y="508" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">HTML</text>
+<rect x="190" y="494" width="500" height="12" rx="6" fill="#1E293B"/>
+<rect x="190" y="494" width="214" height="12" rx="6" fill="url(#blue)"/>
+<text x="710" y="508" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">3 repos · 13%</text>
+<text x="795" y="278" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">PUBLIC ACTIVITY</text>
+<text x="795" y="300" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Observed GitHub public events · last 30 days</text>
+<path d="M800 480H1150" stroke="#475569"/>
+<rect x="801" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="812" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="823" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="834" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="845" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="856" y="400" width="7" height="80" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="867" y="346" width="7" height="134" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="878" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="889" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="900" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="911" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="922" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="933" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="944" y="400" width="7" height="80" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="955" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="966" y="454" width="7" height="26" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="977" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="988" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="999" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1010" y="373" width="7" height="107" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="1021" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1032" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1043" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1054" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1065" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1076" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1087" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1098" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1109" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="1120" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<text x="800" y="502" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">19 Oct</text>
+<text x="1150" y="502" text-anchor="end" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">17 Nov</text>
+<text x="795" y="544" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">5 days with observed public activity</text>
+<path d="M42 568H1158" stroke="#334155"/>
+<text x="44" y="600" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Counts exclude forked and archived public repositories. Activity is based on GitHub’s bounded public event feed, not total contributions.</text>
+<text x="44" y="622" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Last generated: 17 Nov 2026 · 10:51 UTC  ·  Latest observed event: 07 Nov 2026</text>
 </svg>
