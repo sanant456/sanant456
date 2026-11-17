@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Anant Singh — Final-year journey</title>
+<desc id="desc">Animated three-stage journey: build real projects, improve engineering skills, and connect with teams and opportunities.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111C2D"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60A5FA"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="2" y="2" width="1196" height="256" rx="22" fill="url(#panel)" stroke="#334155" stroke-width="2"/>
+<path d="M185 105H1015" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+<path d="M185 105H1015" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 18">
+  <animate attributeName="stroke-dashoffset" values="0;-120" dur="5s" repeatCount="indefinite"/>
+</path>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <g transform="translate(190 105)">
+    <circle r="43" fill="#172C49" stroke="#60A5FA" stroke-width="2"/>
+    <circle r="32" fill="none" stroke="#60A5FA" stroke-opacity=".4" stroke-width="2">
+      <animate attributeName="r" values="30;41;30" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".5;.05;.5" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text y="9" font-size="30" fill="#BFDBFE">01</text>
+  </g>
+  <g transform="translate(600 105)">
+    <circle r="43" fill="#282044" stroke="#A78BFA" stroke-width="2"/>
+    <circle r="32" fill="none" stroke="#A78BFA" stroke-opacity=".4" stroke-width="2">
+      <animate attributeName="r" values="30;41;30" dur="2.6s" begin=".7s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".5;.05;.5" dur="2.6s" begin=".7s" repeatCount="indefinite"/>
+    </circle>
+    <text y="9" font-size="30" fill="#DDD6FE">02</text>
+  </g>
+  <g transform="translate(1010 105)">
+    <circle r="43" fill="#12352E" stroke="#34D399" stroke-width="2"/>
+    <circle r="32" fill="none" stroke="#34D399" stroke-opacity=".4" stroke-width="2">
+      <animate attributeName="r" values="30;41;30" dur="2.6s" begin="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values=".5;.05;.5" dur="2.6s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text y="9" font-size="30" fill="#A7F3D0">03</text>
+  </g>
+  <g fill="#F8FAFC" font-size="22" font-weight="700">
+    <text x="190" y="183">BUILD</text><text x="600" y="183">IMPROVE</text><text x="1010" y="183">CONNECT</text>
+  </g>
+  <g fill="#94A3B8" font-size="14">
+    <text x="190" y="210">Ship practical projects</text><text x="600" y="210">DSA &amp; engineering skills</text><text x="1010" y="210">Teams &amp; opportunities</text>
+  </g>
+</g>
+<circle r="8" fill="#FFFFFF" filter="url(#glow)">
+  <animateMotion dur="5s" repeatCount="indefinite" path="M190 105 H1010"/>
+</circle>
+</svg>
