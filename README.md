@@ -6,7 +6,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=UI%2FUX+Engineer;Full-Stack+Developer;Exploring+Generative+AI+%26+AI+Agents;Turning+Ideas+Into+Useful+Products" alt="Animated typing introduction" /></a>
 
-### UI/UX Engineer · Full-Stack Developer · AI Enthusiast
+### UI/UX Designer · Full-Stack Developer · AI Enthusiast
 
 Building useful digital experiences with software, data, and AI.
 
@@ -55,6 +55,14 @@ Building useful digital experiences with software, data, and AI.
 </p>
 
 **Also working with:** OpenAI API, Google Gemini, Vertex AI, Pandas, NumPy, Matplotlib, Seaborn, Power BI, and REST APIs.
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sanant456/sanant456/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+
+</div>
 
 ## 📊 GitHub Analytics
 
