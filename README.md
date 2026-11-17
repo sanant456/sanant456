@@ -1,118 +1,97 @@
 <!--
   Anant Singh | GitHub Profile README
-  This is the special profile repository: github.com/sanant456/sanant456
+  Native Markdown/HTML edition — avoids fragile external image widgets.
 -->
 
 <div align="center">
-  <img width="100%" src="./assets/profile-banner.svg" alt="Anant Singh profile banner" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;UI%2FUX+Design+Explorer;Turning+ideas+into+real-world+products" alt="Developer roles animation" />
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/sanant567/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:sanant321@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=sanant456&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+
+# ANANT SINGH
+
+### Full-Stack Developer · AI & Automation Enthusiast · UI/UX Explorer
+
+Building useful digital experiences with code, data, design, and intelligent systems.
+
+[LinkedIn](https://www.linkedin.com/in/anant-singh-a5a4a2212/) · [LeetCode](https://leetcode.com/u/sanant567/) · [Email](mailto:sanant321@gmail.com) · [Portfolio](https://github.com/sanant456/Portfolio)
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a final-year **B.Tech Computer Science & Engineering student** who enjoys building practical software at the intersection of **full-stack development, AI, data, and product design**.
+I'm a final-year **B.Tech Computer Science & Engineering student** who enjoys turning ideas into practical software. My interests span full-stack development, Generative AI, data analytics, and thoughtful product design.
 
-- 💻 I build web applications and experiment with end-to-end product development.
-- 🤖 I explore Generative AI, AI agents, and intelligent workflow automation.
-- 🎨 I care about clean interfaces, thoughtful UX, and useful details.
-- 📊 I enjoy turning raw data into insights and visual stories.
-- 🌱 Currently learning, shipping projects, and improving one commit at a time.
+- 💻 Building web applications and exploring end-to-end product development.
+- 🤖 Experimenting with Generative AI, multi-agent systems, and workflow automation.
+- 🎨 Interested in clean interfaces, accessible experiences, and UI/UX design.
+- 📊 Exploring data analysis, visualization, and insight-driven applications.
+- 🌱 Learning continuously through projects, collaboration, and problem-solving.
 
 ---
 
 ## ✨ Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/sanant456/lifeos-ai">
-          <img src="./assets/projects/lifeos-ai.svg" width="100%" alt="LifeOS AI — multi-agent productivity platform"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/sanant456/Subscription-Management-System">
-          <img src="./assets/projects/subvault.svg" width="100%" alt="SubVault — subscription management platform"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/sanant456/Job-Market-Analysis">
-          <img src="./assets/projects/marketpulse.svg" width="100%" alt="MarketPulse — job market analytics"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/sanant456/Emergencybridge">
-          <img src="./assets/projects/emergencybridge.svg" width="100%" alt="EmergencyBridge — secure emergency record access"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <p><sub>Click any project card to explore its source code, features, and documentation.</sub></p>
-</div>
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts&theme=dark" alt="Java, Python, C, C++, JavaScript and TypeScript"/>
-
-**Frontend & Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,figma&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind, Vite and Figma"/>
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,sqlite,firebase,supabase&theme=dark" alt="Node.js, Express, FastAPI, MongoDB, PostgreSQL, SQLite, Firebase and Supabase"/>
-
-**AI, Data & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,aws,gcp,docker,vercel,git,github&theme=dark" alt="TensorFlow, OpenCV, AWS, Google Cloud, Docker, Vercel, Git and GitHub"/>
-
-</div>
-
-<p align="center">
-  <sub>Also exploring: Gemini, OpenAI APIs, Vertex AI, Pandas, NumPy, Matplotlib, Seaborn, Power BI and REST APIs.</sub>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/sanant456/lifeos-ai">LifeOS AI</a></h3>
+      <p>A productivity platform combining task management with specialized AI agents for planning, research, software projects, and workload review.</p>
+      <p><strong>Stack:</strong> <code>FastAPI</code> <code>Next.js</code> <code>Python</code> <code>SQLite</code></p>
+      <p><a href="https://github.com/sanant456/lifeos-ai">Explore repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/sanant456/Subscription-Management-System">SubVault</a></h3>
+      <p>A subscription management and billing platform with lifecycle workflows, invoice generation, payment retries, and operational telemetry.</p>
+      <p><strong>Stack:</strong> <code>React</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/sanant456/Subscription-Management-System">Explore repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/sanant456/Job-Market-Analysis">MarketPulse</a></h3>
+      <p>A job-market analytics application exploring hiring trends, salary distributions, location insights, and skill gaps.</p>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>Firebase</code> <code>Recharts</code></p>
+      <p><a href="https://github.com/sanant456/Job-Market-Analysis">Explore repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/sanant456/Emergencybridge">EmergencyBridge</a></h3>
+      <p>A patient-controlled emergency record access system with granular consent, responder justification, notifications, and a tamper-evident audit ledger.</p>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>SQLite</code> <code>SHA-256</code></p>
+      <p><a href="https://github.com/sanant456/Emergencybridge">Explore repository →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+## 🧰 Technology Stack
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanant456&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanant456&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-  <br/><br/>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanant456&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sanant456/sanant456/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</div>
+| Area | Technologies |
+|---|---|
+| **Languages** | Java · Python · C · C++ · JavaScript · TypeScript |
+| **Frontend & Design** | HTML · CSS · React · Next.js · Tailwind CSS · Vite · Figma |
+| **Backend** | Node.js · Express · FastAPI · REST APIs |
+| **Databases** | PostgreSQL · MongoDB · SQLite · Firebase · Supabase |
+| **AI & Data** | Generative AI · AI Agents · Gemini · OpenAI APIs · Pandas · NumPy · Matplotlib · Seaborn |
+| **Cloud & Tools** | AWS · Google Cloud · Docker · Vercel · Git · GitHub · Power BI |
 
 ---
 
+## 📌 What I'm Focused On
+
+- Building practical full-stack applications.
+- Learning how to design reliable AI-powered workflows.
+- Strengthening problem-solving and data structures.
+- Improving product thinking and user-centred interface design.
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-  <h3>💬 Let's Build Something Meaningful</h3>
-  <p>Open to learning, collaborating, and building projects that solve real problems.</p>
-  <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/"><img src="https://img.shields.io/badge/Let's%20connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/></a>
-  <br/><br/>
-  <img width="100%" src="./assets/profile-banner.svg" alt="Anant Singh profile banner footer"/>
+
+Interested in collaborating, exchanging ideas, or building something meaningful?
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/anant-singh-a5a4a2212/)** · **[View my LeetCode](https://leetcode.com/u/sanant567/)** · **[Send an email](mailto:sanant321@gmail.com)**
+
 </div>
