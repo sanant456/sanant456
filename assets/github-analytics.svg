@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+<title id="t">GitHub Analytics — Initialising</title>
+<desc id="d">This dashboard is generated daily by GitHub Actions using public repository metadata and recent public events.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#14243B"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="258" rx="22" fill="url(#bg)" stroke="#334155" stroke-width="2"/>
+<text x="42" y="62" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="750">GITHUB ANALYTICS</text>
+<text x="44" y="98" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Your public GitHub activity dashboard is being initialised.</text>
+<circle cx="70" cy="165" r="8" fill="#60A5FA"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+<text x="96" y="171" fill="#BFDBFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Run the “Update GitHub Profile Analytics” workflow once to populate repository and activity data.</text>
+<text x="44" y="223" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Metrics will be clearly labelled: public repositories, repository stars/forks, primary languages, and observed public events.</text>
+</svg>
