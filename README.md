@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/profile-banner.svg" alt="Anant Singh profile banner" />
+  <img width="100%" src="./assets/profile-banner.svg" alt="Anant Singh profile banner" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;UI%2FUX+Design+Explorer;Turning+ideas+into+real-world+products" alt="Developer roles animation" />
   <br/><br/>
@@ -36,24 +36,24 @@ I'm a final-year **B.Tech Computer Science & Engineering student** who enjoys bu
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/sanant456/lifeos-ai">
-          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/lifeos-ai.svg" width="100%" alt="LifeOS AI — multi-agent productivity platform"/>
+          <img src="./assets/projects/lifeos-ai.svg" width="100%" alt="LifeOS AI — multi-agent productivity platform"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sanant456/Subscription-Management-System">
-          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/subvault.svg" width="100%" alt="SubVault — subscription management platform"/>
+          <img src="./assets/projects/subvault.svg" width="100%" alt="SubVault — subscription management platform"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/sanant456/Job-Market-Analysis">
-          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/marketpulse.svg" width="100%" alt="MarketPulse — job market analytics"/>
+          <img src="./assets/projects/marketpulse.svg" width="100%" alt="MarketPulse — job market analytics"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sanant456/Emergencybridge">
-          <img src="https://raw.githubusercontent.com/sanant456/sanant456/main/assets/projects/emergencybridge.svg" width="100%" alt="EmergencyBridge — secure emergency record access"/>
+          <img src="./assets/projects/emergencybridge.svg" width="100%" alt="EmergencyBridge — secure emergency record access"/>
         </a>
       </td>
     </tr>
@@ -114,5 +114,5 @@ I'm a final-year **B.Tech Computer Science & Engineering student** who enjoys bu
   <p>Open to learning, collaborating, and building projects that solve real problems.</p>
   <a href="https://www.linkedin.com/in/anant-singh-a5a4a2212/"><img src="https://img.shields.io/badge/Let's%20connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's connect on LinkedIn"/></a>
   <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,55:142B4A,100:0B1020" alt="Footer banner"/>
+  <img width="100%" src="./assets/profile-banner.svg" alt="Anant Singh profile banner footer"/>
 </div>
