@@ -1,0 +1,44 @@
+name: Update GitHub Profile Analytics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *" # Daily at 00:17 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics
+  cancel-in-progress: false
+
+jobs:
+  update-analytics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate analytics SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: sanant456
+          ANALYTICS_OUTPUT: assets/github-analytics.svg
+        run: python scripts/generate_profile_analytics.py
+
+      - name: Commit updated analytics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-analytics.svg
+          if git diff --cached --quiet; then
+            echo "Analytics SVG has not changed."
+            exit 0
+          fi
+          git commit -m "chore: update GitHub profile analytics"
+          git push
