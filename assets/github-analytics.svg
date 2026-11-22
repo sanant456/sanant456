@@ -60,22 +60,22 @@
 <text x="795" y="278" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">PUBLIC ACTIVITY</text>
 <text x="795" y="300" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Observed GitHub public events · last 30 days</text>
 <path d="M800 480H1150" stroke="#475569"/>
-<rect x="801" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="812" y="461" width="7" height="19" rx="3" fill="url(#violet)" opacity="0.95"/>
-<rect x="823" y="449" width="7" height="31" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="801" y="461" width="7" height="19" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="812" y="449" width="7" height="31" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="823" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="834" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="845" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="856" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="867" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="878" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="889" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="900" y="461" width="7" height="19" rx="3" fill="url(#violet)" opacity="0.95"/>
-<rect x="911" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="922" y="474" width="7" height="6" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="889" y="461" width="7" height="19" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="900" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
+<rect x="911" y="474" width="7" height="6" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="922" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="933" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="944" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="955" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="966" y="455" width="7" height="25" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="955" y="455" width="7" height="25" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="966" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="977" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="988" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="999" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
@@ -84,16 +84,16 @@
 <rect x="1032" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="1043" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="1054" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="1065" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="1076" y="346" width="7" height="134" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="1065" y="346" width="7" height="134" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="1076" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="1087" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="1098" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<rect x="1109" y="474" width="7" height="6" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="1098" y="474" width="7" height="6" rx="3" fill="url(#violet)" opacity="0.95"/>
+<rect x="1109" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
 <rect x="1120" y="478" width="7" height="2" rx="3" fill="url(#violet)" opacity="0.18"/>
-<text x="800" y="502" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">23 Oct</text>
-<text x="1150" y="502" text-anchor="end" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">21 Nov</text>
+<text x="800" y="502" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">24 Oct</text>
+<text x="1150" y="502" text-anchor="end" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">22 Nov</text>
 <text x="795" y="544" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">7 days with observed public activity</text>
 <path d="M42 568H1158" stroke="#334155"/>
 <text x="44" y="600" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Counts exclude forked and archived public repositories. Activity is based on GitHub’s bounded public event feed, not total contributions.</text>
-<text x="44" y="622" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Last generated: 21 Nov 2026 · 07:08 UTC  ·  Latest observed event: 20 Nov 2026</text>
+<text x="44" y="622" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10">Last generated: 22 Nov 2026 · 06:49 UTC  ·  Latest observed event: 20 Nov 2026</text>
 </svg>
